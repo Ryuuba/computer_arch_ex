@@ -1,0 +1,57 @@
+[submodule "compilation-lib-ex"]
+	path = compilation-lib-ex
+	url = https://github.com/Ryuuba/compilation-lib-ex.git
+[submodule "fill_tb"]
+	path = fill_tb
+	url = https://github.com/Ryuuba/fill_tb.git
+[submodule "float"]
+	path = float
+	url = https://github.com/Ryuuba/float.git
+[submodule "integers"]
+	path = integers
+	url = https://github.com/Ryuuba/integers.git
+[submodule "lib_cpp"]
+	path = lib_cpp
+	url = https://github.com/Ryuuba/lib_cpp.git
+[submodule "miss_counter"]
+	path = miss_counter
+	url = https://github.com/Ryuuba/miss_counter.git
+[submodule "risc-v-arith-logic"]
+	path = risc-v-arith-logic
+	url = https://github.com/Ryuuba/risc-v-arith-logic.git
+[submodule "risc-v-arith-logic-exam"]
+	path = risc-v-arith-logic-exam
+	url = https://github.com/Ryuuba/risc-v-arith-logic-exam.git
+[submodule "risc-v-array"]
+	path = risc-v-array
+	url = https://github.com/Ryuuba/risc-v-array.git
+[submodule "risc-v-assembly"]
+	path = risc-v-assembly
+	url = https://github.com/Ryuuba/risc-v-assembly.git
+[submodule "risc-v-branch"]
+	path = risc-v-branch
+	url = https://github.com/Ryuuba/risc-v-branch.git
+[submodule "risc-v-conditionals-quiz"]
+	path = risc-v-conditionals-quiz
+	url = https://github.com/Ryuuba/risc-v-conditionals-quiz.git
+[submodule "risc-v-logical-op"]
+	path = risc-v-logical-op
+	url = https://github.com/Ryuuba/risc-v-logical-op.git
+[submodule "risc-v-loops"]
+	path = risc-v-loops
+	url = https://github.com/Ryuuba/risc-v-loops.git
+[submodule "risc-v-loops-ex"]
+	path = risc-v-loops-ex
+	url = https://github.com/Ryuuba/risc-v-loops-ex.git
+[submodule "risc-v-nested-loops"]
+	path = risc-v-nested-loops
+	url = https://github.com/Ryuuba/risc-v-nested-loops.git
+[submodule "risc-v-quicksort"]
+	path = risc-v-quicksort
+	url = https://github.com/Ryuuba/risc-v-quicksort.git
+[submodule "risc-v-recursive-function"]
+	path = risc-v-recursive-function
+	url = https://github.com/Ryuuba/risc-v-recursive-function.git
+[submodule "risc-v-recursive-function-ex"]
+	path = risc-v-recursive-function-ex
+	url = https://github.com/Ryuuba/risc-v-recursive-function-ex.git
